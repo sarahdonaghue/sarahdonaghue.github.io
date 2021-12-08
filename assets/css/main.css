@@ -3894,7 +3894,7 @@ input, select, textarea {
 			}
 
 				#footer .icons a:hover {
-					color: #fff;
+					color: #d4af37;
 				}
 
 		#footer .copyright {
@@ -3925,7 +3925,7 @@ input, select, textarea {
 				}
 
 					#footer .copyright li a:hover {
-						color: #fff;
+						color: #d4af37;
 					}
 
 				@media screen and (max-width: 480px) {
