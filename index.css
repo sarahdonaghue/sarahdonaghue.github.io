@@ -355,6 +355,12 @@ body {
         width:90vw;
         padding:0px 5vw;
     }
+    #middle h2 {
+	font-size: 30px;
+    }
+    #middle p {
+	font-size: 15px;
+    }
     #middle table {
         width:80%;
     }
